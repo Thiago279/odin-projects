@@ -1,0 +1,1 @@
+This is the first projectwihin the course, it proposes the making of  a simple recipes webpage to practice concepts such as anexing images and creating basic ordered/unordered lists with HTML.
