@@ -1,0 +1,47 @@
+/*color, background color, typography properties*/
+*{
+    box-sizing: border-box ;
+}
+body {
+    background-color:rgb(255, 247, 17);
+    color: #333333;
+    font-family: "Brush Script MT";
+}
+header,footer{
+    background-color: #cfad01;
+    border:#616161;
+    margin:0;
+    width:100%;
+}
+.language {
+    text-align: center;
+    font-weight: bold;
+    font-size: 28px;
+    background-color: aliceblue;
+    margin-left:33%;
+    margin-right:33%;
+    
+}
+
+ul li {
+    line-height: 1.5;
+    
+}
+footer{
+    margin-top:10px;
+}
+.recipes-card{
+    text-align:center;
+    padding:20px;
+    background-color: aliceblue;
+    margin: 0 25%;
+    border: 2px solid rgb(160, 118, 51);
+}
+
+.icone-bandeira{
+    height:20px;
+    width:auto;
+    display:inline-block;
+    padding-right: 10px;
+    padding-top:2px;
+}
